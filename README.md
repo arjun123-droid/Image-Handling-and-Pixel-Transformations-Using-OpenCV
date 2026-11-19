@@ -408,25 +408,48 @@ plt.show()
 
 
 ## Output:
+## ORIGINAL
+
 <img width="258" height="307" alt="Screenshot 2026-11-19 140354" src="https://github.com/user-attachments/assets/9e1f69f3-e506-4f50-add3-15f76c720856" />
+
+
+## LINE
 
 <img width="297" height="297" alt="Screenshot 2026-11-19 140402" src="https://github.com/user-attachments/assets/17721737-814b-400d-8bce-f3868430e4cc" />
 
+
+## CIRCLE
 <img width="255" height="302" alt="Screenshot 2026-11-19 140418" src="https://github.com/user-attachments/assets/e40d69ec-2639-4a0d-a9f8-2d4e9e45d194" />
+
+## RECTANGLE
 
 <img width="237" height="296" alt="Screenshot 2026-11-19 140430" src="https://github.com/user-attachments/assets/18ea8a6c-bff9-4459-a194-bc9ac0191837" />
 
+## HSV
+
 <img width="231" height="315" alt="Screenshot 2026-11-19 140451" src="https://github.com/user-attachments/assets/bd3ddbe8-a8e2-42e5-922b-71923f502850" />
+
+## GRAYSCALE
 
 <img width="232" height="297" alt="Screenshot 2026-11-19 140506" src="https://github.com/user-attachments/assets/909eb251-9139-4bd9-8f8f-5281f5338fa4" />
 
+## YCRCB
+
 <img width="235" height="303" alt="Screenshot 2026-11-19 140516" src="https://github.com/user-attachments/assets/12b5be50-3c3c-4fcb-bd24-6458d25da2d1" />
+
+## RESIZE IMAGE
 
 <img width="445" height="545" alt="Screenshot 2026-11-19 140545" src="https://github.com/user-attachments/assets/45b979bb-9b57-4670-a520-cc46e911efc4" />
 
+## CROPPED
+
 <img width="377" height="492" alt="Screenshot 2026-11-19 140603" src="https://github.com/user-attachments/assets/f4d17356-16b4-46d2-a897-48744817c767" />
 
+## HORIZONTAL FLIP 
+
 <img width="422" height="535" alt="Screenshot 2026-11-19 140627" src="https://github.com/user-attachments/assets/f289709c-8d16-4f2f-a190-a77af33bbed3" />
+
+## VERTICAL FLIP
 
 
 <img width="415" height="495" alt="Screenshot 2026-11-19 140636" src="https://github.com/user-attachments/assets/a0cc48ac-875a-410d-bfd0-a3c5af859727" />
